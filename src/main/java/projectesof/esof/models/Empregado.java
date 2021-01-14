@@ -9,7 +9,7 @@ import java.util.List;
 
 @Getter
 @Setter
-@EqualsAndHashCode(callSuper = true)
+@EqualsAndHashCode(callSuper = false)
 public class Empregado extends Utilizador{
     private Long id;
     private String email;

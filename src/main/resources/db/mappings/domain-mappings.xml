@@ -15,11 +15,11 @@
             <basic name="name">
                 <column name="name"/>
             </basic>
-            <basic name="valor">
-                <column name="valor"/>
+            <basic name="valorEstimado">
+                <column name="valorEstimado"/>
             </basic>
-            <basic name="tempo">
-                <column name="tempo"/>
+            <basic name="tempoEstimado">
+                <column name="tempoEstimado"/>
             </basic>
             <one-to-many name="tarefas" mapped-by="projeto">
                 <cascade><cascade-all/></cascade>
