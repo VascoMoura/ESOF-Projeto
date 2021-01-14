@@ -1,0 +1,2 @@
+# ProjetoESOF.
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/bf0c57daabd24a69a281ebd48fcfec86)](https://app.codacy.com/gh/vasco38292/ProjetoESOF.?utm_source=github.com&utm_medium=referral&utm_content=vasco38292/ProjetoESOF.&utm_campaign=Badge_Grade)
